@@ -72,3 +72,6 @@ const topRated = products
     .map(({ title, price }) => `${title} - $${price}`);
  
 console.table(topRated);
+
+// new changes
+
